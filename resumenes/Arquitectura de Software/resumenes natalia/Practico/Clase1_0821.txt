@@ -1,0 +1,21 @@
+pablo.arreche@gmail.com
+----------------------------
+TEMAS
+- Introducción a JEE
+- EJB
+- JPA
+- JMS
+- Web Services (REST)
+
+----------------------------
+Netbeans 7.4
+https://netbeans.org/downloads/index.html
+
+GlassFish server 4.0 ò Tomcat 7.0.41
+
+
+MySQL Workbench Community (GPL) for Windows version 6.0.7
+http://dev.mysql.com/downloads/workbench/
+----------------------------
+
+
