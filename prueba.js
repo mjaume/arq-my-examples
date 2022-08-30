@@ -1,0 +1,3 @@
+function iimprimir() {
+    console.log("")
+}
