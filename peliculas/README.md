@@ -1,0 +1,1 @@
+Postman para que funcione tiene que estar configurado con JSON
