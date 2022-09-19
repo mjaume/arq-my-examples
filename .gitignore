@@ -3,3 +3,4 @@
 /.idea/*
 /node_modules/*
 /peliculas/node_modules/
+/peliculas/package-lock.json
